@@ -1,6 +1,6 @@
-# 🛠️ Decentralized Task Management & Payment Platform
+# 🛠️ MaxRiti - Escrow Task Management & Payment Platform
 
-A decentralized task creation and payment platform built using **Vite + React (JavaScript)** for the frontend, with **Reown** for wallet connectivity and **Pyth SDK** for real-time cryptocurrency price data. The system ensures secure, transparent, and fair task-based transactions through smart contracts and an admin-based dispute resolution mechanism.
+MaxRiti is decentralized task creation and payment platform built using **Vite + React (JavaScript)** for the frontend, with **Reown** for wallet connectivity and **Pyth SDK** for real-time cryptocurrency price data. The system ensures secure, transparent, and fair task-based transactions through smart contracts and an admin-based dispute resolution mechanism.
 
 ---
 
