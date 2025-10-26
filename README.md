@@ -72,5 +72,3 @@ To ensure fairness and prevent fraud:
 
 ---
 
-## 🧩 Architecture Overview
-
